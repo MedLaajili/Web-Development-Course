@@ -1,11 +1,13 @@
-#S1{
+@media (max-width: 767px) {
+    #S1{
     width: 100%
-}
-#S2{
-    width: 100%
-}
-#S3{
-    width: 100%
+    }
+    #S2{
+        width: 100%
+    }
+    #S3{
+        width: 100%
+    }
 }
 @media (min-width: 992px) {
     #S1{
