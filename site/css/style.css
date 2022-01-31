@@ -1,10 +1,6 @@
 *{
     box-sizing: border-box;
 }
-body{
-    margin: 0px;
-
-}
 @media (max-width: 767px) {
     section{
         float: left;
