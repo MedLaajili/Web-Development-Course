@@ -1,4 +1,8 @@
 @media (max-width: 767px) {
+    section{
+        float: left;
+        border: 1px solid black;
+    }
     #S1{
         width: 100%
     }
@@ -10,7 +14,10 @@
     }
 }
 @media (min-width: 992px) {
+    section{
     float: left;
+    border: 1px solid black;
+    }
     #S1{
         width: 33.33%
     }
@@ -22,7 +29,10 @@
     }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-    float: left;
+    section{
+        float: left;
+        border: 1px solid black;
+    }
     #S1{
         width: 50%
     }
