@@ -1,5 +1,11 @@
 @media (min-width: 992px) {
-    section{
+    #S1{
+        width: 33.33%
+    }
+    #S2{
+        width: 33.33%
+    }
+    #S3{
         width: 33.33%
     }
 }
