@@ -38,8 +38,8 @@ h1{
         text-align: center;
     }
     p{
-        position: absolute;
-        top: 50px;
+        position: relative;
+        bottom: 10px;
     }
     #S1{
         width: 100%;
@@ -71,8 +71,8 @@ h1{
     
     }
     p{
-        position: absolute;
-        top: 50px;
+        position: relative;
+        bottom: 10px;
     }
     #S1{
         width: 30%;
@@ -107,8 +107,8 @@ h1{
     
     }
     p{
-        position: absolute;
-        top: 50px;
+        position: relative;
+        bottom: 10px;
     }
     #S1{
         width: 47.5%;
