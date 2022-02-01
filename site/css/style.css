@@ -5,17 +5,6 @@ body{
     margin: 10px;
 
 }
-.title{
-    border: 1px solid black;
-    position: absolute;
-    top: 0%;
-    right: 0%;
-    margin: 0px;
-    padding: 5px;
-    width: 100px;
-    text-align: center;
-
-}
 #chicken{
     background-color: green;
 }
@@ -34,6 +23,17 @@ body{
         font-family: 'Times New Roman', Times, serif;
         position: relative;
     }
+    .title{
+        border: 1px solid black;
+        position: absolute;
+        top: 0%;
+        right: 0%;
+        margin: 0px;
+        padding: 5px;
+        width: 100px;
+        text-align: center;
+    
+    }
     #S1{
         width: 100%;
     }
@@ -51,6 +51,17 @@ body{
     background-color: gray;
     font-family: 'Times New Roman', Times, serif;
     position: relative;
+    }
+    .title{
+        border: 1px solid black;
+        position: absolute;
+        top: 0%;
+        right: 0%;
+        margin: 0px;
+        padding: 5px;
+        width: 100px;
+        text-align: center;
+    
     }
     #S1{
         width: 30%;
@@ -72,6 +83,17 @@ body{
         background-color: gray;
         font-family: 'Times New Roman', Times, serif;
         position: relative;
+    }
+    .title{
+        border: 1px solid black;
+        position: absolute;
+        top: 0%;
+        right: 0%;
+        margin: 0px;
+        padding: 5px;
+        width: 100px;
+        text-align: center;
+    
     }
     #S1{
         width: 47.5%;
