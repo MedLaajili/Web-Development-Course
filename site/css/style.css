@@ -5,11 +5,10 @@ body{
     margin: 10px;
 
 }
-header{
+#header{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 75%;
-    
 }
 #chicken{
     background-color: green;
