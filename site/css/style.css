@@ -9,6 +9,10 @@ h1{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+p{
+    position: relative;
+    top: 15px;
+}
 #chicken{
     background-color: green;
 }
@@ -36,6 +40,7 @@ h1{
         padding: 5px;
         width: 100px;
         text-align: center;
+        font-size: 75%;
     }
     #S1{
         width: 100%;
@@ -64,6 +69,7 @@ h1{
         padding: 5px;
         width: 100px;
         text-align: center;
+        font-size: 75%;
     
     }
     #S1{
@@ -96,7 +102,7 @@ h1{
         padding: 5px;
         width: 100px;
         text-align: center;
-    
+        font-size: 75%;
     }
     #S1{
         width: 47.5%;
