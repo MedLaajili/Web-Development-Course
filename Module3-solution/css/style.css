@@ -9,6 +9,9 @@ body {
     border-radius: 0;
     border: 0;
 }
+.container{
+    margin: 10px 10px;
+}
 .navbar-brand{
     padding-top: 25px;
 }
@@ -16,6 +19,7 @@ body {
     color: rgb(185, 149, 82);
     font-size: 1.5em;
     text-transform: uppercase;
+    text-align: left;
     font-weight: bold;
     text-shadow: 1px 1px 1px #222;
     margin-top: 0;
